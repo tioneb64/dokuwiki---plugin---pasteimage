@@ -1,0 +1,7 @@
+base   pasteimage
+author Benoit
+email  benoit.thibaudeau64@gmail.com
+date   2026-11-19
+name   Pasteimage (coller des médias dans l'éditeur)
+desc   Coller une image (ou déposer des fichiers) dans l'éditeur l'envoie dans les médias de l'espace de noms de la page, comme le bouton d'ajout d'image, et insère le lien à l'endroit du curseur, comme Obsidian.
+url    https://www.dokuwiki.org/plugins

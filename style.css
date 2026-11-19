@@ -1,0 +1,19 @@
+/* Pasteimage : message d'envoi sous l'éditeur */
+
+#plugin_pasteimage_status {
+    min-height: 1.4em;
+    margin: .3em 0;
+    font-size: .9em;
+    color: __text_neu__;
+}
+#plugin_pasteimage_status img {
+    max-height: 3.2em;
+    max-width: 8em;
+    vertical-align: middle;
+    margin-right: .5em;
+    border: 1px solid __border__;
+    border-radius: 3px;
+}
+#plugin_pasteimage_status.pi-error { color: #b3261e; }
+#plugin_pasteimage_status.pi-ok { color: #2e7d32; }
+textarea#wiki__text.pi-drop { outline: 2px dashed __link__; outline-offset: -2px; }
